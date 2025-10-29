@@ -1,0 +1,14 @@
+# Week 1 – Progress Log
+
+## 📅 Day 1 – Project Initialization (Date: Oct 29, 2025)
+**Tasks Done:**
+- Created GitHub repository
+- Set up local project folder
+- Added README and .gitignore
+- Created dev branch
+- Linked local repo with GitHub
+
+**Next Steps:**
+- Set up Python virtual environment
+- Install FastAPI and dependencies
+- Create /upload_resume endpoint
