@@ -1,7 +1,9 @@
 # Week 1 – Progress Log
 
 ## 📅 Day 1 – Project Initialization (Date: Oct 29, 2025)
+
 **Tasks Done:**
+
 - Created GitHub repository
 - Set up local project folder
 - Added README and .gitignore
@@ -9,6 +11,22 @@
 - Linked local repo with GitHub
 
 **Next Steps:**
+
 - Set up Python virtual environment
 - Install FastAPI and dependencies
 - Create /upload_resume endpoint
+
+## 📅 Day 2 – Backend Setup (Date: Oct 30, 2025)
+
+**Tasks Done:**
+
+- Created Python virtual environment
+- Installed FastAPI, uvicorn, and dependencies
+- Built `/upload_resume` endpoint
+- Tested API via Swagger UI
+
+**Next Steps:**
+
+- Add file validation (Day 3)
+- Create basic resume parser function
+- Integrate with frontend upload form
