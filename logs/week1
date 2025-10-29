@@ -30,3 +30,18 @@
 - Add file validation (Day 3)
 - Create basic resume parser function
 - Integrate with frontend upload form
+
+## 📅 Day 3 – File Validation & Resume Parser (Date: Oct 31, 2025)
+
+**Tasks Done:**
+
+- Added file type validation (.pdf, .docx, .txt)
+- Implemented error handling for upload issues
+- Created `resume_parser.py` with simulated extraction function
+- Updated `/upload_resume` to return structured JSON
+- Tested API via Swagger UI with valid and invalid files
+
+**Next Steps:**
+
+- Add frontend integration for file upload (Day 4)
+- Display parsed resume data in frontend
